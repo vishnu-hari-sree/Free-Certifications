@@ -1,6 +1,7 @@
 # Free Certifications
 
 A curated list of free courses &amp; certifications. Don't forget to star ⭐ this repository.
+Explore the jurney of Hacking...
 
 The offers on top of the table are time-limited and will expire soon. So, hurry up and grab them first!
 
